@@ -52,7 +52,7 @@
 | Blog | ✔️ |
 | About Me | ✔️ |
 
-
+ 
 ## 🛠️ Endpoint-Api
 | Menu | Endpoint | 
 |------------ | ---------|
